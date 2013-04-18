@@ -1,6 +1,8 @@
 # Placeholders for Sublime Text 2
 
-This package contains basic HTML placeholder content for Sublime Text 2 e.g. lorem ipsum text, forms, images etc
+This package contains basic HAML placeholder content for Sublime Text 2 e.g. lorem ipsum text, forms, images etc
+
+Based on https://github.com/mrmartineau/Placeholders original placeholders
 
 ## Tab triggers
 
