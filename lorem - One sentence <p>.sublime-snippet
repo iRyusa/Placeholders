@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>]]></content>
-	<tabTrigger>lorem</tabTrigger>
+%p
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.]]></content>
+	<tabTrigger>%lorem</tabTrigger>
 	<description>lorem - One sentence &lt;p&gt; </description>
 </snippet>
